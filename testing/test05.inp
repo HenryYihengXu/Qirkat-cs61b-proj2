@@ -1,0 +1,6 @@
+# Have the program play against itself.
+java -ea qirkat.Main
+auto White
+seed 1237
+start
+@white...
